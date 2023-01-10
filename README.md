@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Joshua Crockett
+### I'm interested in programming, computers, gaming, and music.
+### I'm currently learning about physics, math, fairytales, digital design, and object-oriented programming.
+### I'm originally from Japan, but I moved to Hawaii in 2016.
+### I'm currently a sophomore intending to major in Computer Engineering.
+### I chose my major because I've always had an interest in computers and how they work, and pursuing a degree allows me to furfill that long-standing interest, while also opening opportunities for me.
+### A fun fact about me is that my favorite video game of all time is a toss-up between Super Mario Galaxy 1/2. 1 is more atmospheric and pretty, 2 is more challenging and fun.
 
 <!--
 **JoshCrockett/joshcrockett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
