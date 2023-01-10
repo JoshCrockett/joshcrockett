@@ -5,6 +5,8 @@
 ### I'm currently a sophomore intending to major in Computer Engineering.
 ### I chose my major because I've always had an interest in computers and how they work, and pursuing a degree allows me to furfill that long-standing interest, while also opening opportunities for me.
 ### A fun fact about me is that my favorite video game of all time is a toss-up between Super Mario Galaxy 1/2. 1 is more atmospheric and pretty, 2 is more challenging and fun.
+### I want to gain a better understanding of how to program better from EE 205, while also dipping my toes into software engineering. I have very little experience with software engineering - I have only ever worked with a breadboard once in a high school club - and I hope to leave this class with more of an understanding of it.
+### A book or movie that I would personally recommend to anybody whose interested in watching would be Logan. Logan is about as great of a sendoff to both FOX and the X-MEN as one could ask for, and it's a genuine shame that FOX decided that Dark Phoenix was the better film to finish on before merging with Disney.
 
 <!--
 **JoshCrockett/joshcrockett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
