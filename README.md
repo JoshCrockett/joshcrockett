@@ -1,13 +1,12 @@
-### Hi, I'm Joshua Crockett
-### I'm interested in programming, computers, gaming, and music.
-### I'm currently learning about physics, math, fairytales, digital design, and object-oriented programming.
-### I'm originally from Japan, but I moved to Hawaii in 2016.
-### I'm currently a sophomore intending to major in Computer Engineering.
-### I chose my major because I've always had an interest in computers and how they work, and pursuing a degree allows me to furfill that long-standing interest, while also opening opportunities for me.
-### A fun fact about me is that my favorite video game of all time is a toss-up between Super Mario Galaxy 1/2. 1 is more atmospheric and pretty while 2 is more challenging and fun.
-### I want to gain a better understanding of how to program better from EE 205, while also further dipping my toes into software engineering as well as different coding languages that I'm not familiar with.
-### A book or movie that I would personally recommend to anybody whose interested in watching would be Logan. Logan is about as great of a sendoff to both FOX and the X-MEN as one could ask for, and it's a genuine shame that FOX decided that Dark Phoenix was the better film to finish on before merging with Disney.
-
+### Hi, I'm Joshua Crockett!
+### I'm interested in programming, computers, gaming, writing, and music.
+### I'm currently learning about physics (relative to electricity), linear algebra, circuit analysis, and object-oriented programming!
+### I'm originally from Japan, but I moved to Hawaii in 2016. I have lived here since then.
+### I'm currently a sophomore (soon to be junior!!!) intending to major in Computer Engineering.
+### I chose my major because I've always had an interest in computers and how they work, while also being equally fascinated by electricity, and how it can be harnessed to create cool things, and pursuing a degree allows me to furfill that long-standing interest, while also opening opportunities for me to further engage with these fascinations for a living.
+### A fun fact about me that is worth mentioning is that I went to a DODEA elementary and middle school while living in Japan.
+### I want to gain a better understanding of how to program with C and C++ from EE 205, as well as also gain a better understanding of the nature of the job that I am aiming for. 
+### A book or movie that I would personally recommend to anybody whose interested in watching would be Puss In Boots: The Last Wish (I wrote Logan for this very section last year, but to update this to be more relevant, here we are!). It offers a really fun tale from the Shrek universe that also offers a really nice lesson of learning to enjoy and value your life, while also having 3 incredible villains (Goldilocks and Death are both especially great in the film) who all actually pose a n active threat to the protagonist, all while also being an incredibly beautiful movie to watch - seriously, the animation in that film is great.
 <!--
 **JoshCrockett/joshcrockett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
