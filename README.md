@@ -1,6 +1,5 @@
 ### Hi, I'm Joshua Crockett!
 ### I'm interested in programming, computers, gaming, writing, and music.
-### I'm currently learning about physics (relative to electricity), linear algebra, circuit analysis, and object-oriented programming!
 ### I'm originally from Japan, but I moved to Hawaii in 2016. I have lived here since then.
 ### I'm currently a Senior intending to major in Computer Engineering.
 ### I chose my major because I've always had an interest in computers and how they work, while also being equally fascinated by electricity, and how it can be harnessed to create cool things, and pursuing a degree allows me to fulfill that long-standing interest, while also opening opportunities for me to further engage with these fascinations for a living.
